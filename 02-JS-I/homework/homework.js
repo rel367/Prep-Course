@@ -1,10 +1,9 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null;
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = null;
+const nuevoNum = 'hola';
 
 // Crea una variable booleana:
 const nuevoBool = null;
@@ -164,7 +163,7 @@ function combinarNombres(nombre, apellido) {
 
 function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
-  // "Martin" -> "Hola Martin!"
+  // "Martin" -> " Martin!"
   // Tu código:
   
 }

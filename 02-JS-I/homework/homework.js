@@ -3,7 +3,7 @@
 // Crea una variable "string", puede contener lo que quieras:
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = 'hol';
+const nuevoNum = 'hoal';
 
 // Crea una variable booleana:
 const nuevoBool = null;
